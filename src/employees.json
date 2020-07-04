@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "firstName": "Lacey-Mae",
+        "lastName": "Greig",
+        "department": "Director",
+        "role": "Director",
+        "location": "Caravan 1",
+        "imgUrl": ""
+    },
+    {
+        "id": 2,
+        "firstName": "Katie",
+        "lastName": "O'Brien",
+        "department": "Production",
+        "role": "Accounting",
+        "location": "Caravan 24",
+        "imgUrl": ""
+    },
+    {
+        "id": 3,
+        "firstName": "Keanu",
+        "lastName": "Reeves",
+        "department": "Production",
+        "role": "Cast",
+        "location": "Caravan 2",
+        "imgUrl": ""
+    },
+    {
+        "id": 4,
+        "firstName": "Yousef",
+        "lastName": "Walmsley",
+        "department": "Camera and lighting",
+        "role": "Camera",
+        "location": "Caravan 17",
+        "imgUrl": ""
+    },
+    {
+        "id": 5,
+        "firstName": "Angela",
+        "lastName": "Bradley",
+        "department": "Camera and lighting",
+        "role": "Lighting",
+        "location": "Caravan 18",
+        "imgUrl": ""
+    },
+    {
+        "id": 6,
+        "firstName": "Sebastian",
+        "lastName": "Galvan",
+        "department": "Art department",
+        "role": "Costume department",
+        "location": "Caravan 12",
+        "imgUrl": ""
+    },
+    {
+        "id": 7,
+        "firstName": "Savannah",
+        "lastName": "Whitmore",
+        "department": "Special effects",
+        "role": "Special effects",
+        "location": "Caravan 21",
+        "imgUrl": ""
+    },
+    {
+        "id": 8,
+        "firstName": "Evie-Mai",
+        "lastName": "North",
+        "department": "Post-production",
+        "role": "Sound and music",
+        "location": "Caravan 14",
+        "imgUrl": ""
+    },
+    {
+        "id": 9,
+        "firstName": "Aubree",
+        "lastName": "Goddard",
+        "department": "Post-production",
+        "role": "Visual effects",
+        "location": "Caravan 19",
+        "imgUrl": ""
+    },
+    {
+        "id": 10,
+        "firstName": "Ezra",
+        "lastName": "Zimmerman",
+        "department": "Stunts",
+        "role": "Stunt man",
+        "location": "Caravan 3",
+        "imgUrl": ""
+    }
+]
